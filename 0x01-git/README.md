@@ -1,1 +1,1 @@
-An aspiring fullstack developer and a student of ALX
+i am an aspiring fullstack developer and a student of ALX
