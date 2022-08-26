@@ -1,1 +1,1 @@
-Kwame Bio Agyemang Duah, aspiring fullstack developer. A student at ALX.
+Kwame Bio Agyemang Duah, aspiring Fullstack developer. A student at ALX.
